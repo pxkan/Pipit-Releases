@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Pipit Updates</title>
+        <description>Most recent updates to Pipit</description>
+        <language>en</language>
+        <link>https://github.com/pxkan/Pipit-Releases</link>
+
+        <item>
+            <title>Version 1.0</title>
+            <description><![CDATA[
+                <h2>Pipit 1.0 Release</h2>
+                <ul>
+                    <li>Initial public release</li>
+                    <li>Speech-to-text transcription</li>
+                    <li>Auto-update support with Sparkle</li>
+                    <li>macOS Sonoma and later support</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 14 Nov 2025 20:30:00 +0000</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.0/Pipit-1.0.dmg"
+                sparkle:edSignature="cAzPJXa2YnJplfCj2xJmtsucCxOHFsEr2spfPdDjc30qokdPq6IiMh8thAPZwmxxhCb9xk1ityI9iimfDtEWDQ=="
+                length="5009933"
+                type="application/octet-stream"
+            />
+        </item>
+
+    </channel>
+</rss>
