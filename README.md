@@ -26,4 +26,4 @@ The source code is maintained in a private repository. For issues or feature req
 
 ## License
 
-© 2025 Pranav. All rights reserved.
+All rights reserved.
