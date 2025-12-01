@@ -19,14 +19,14 @@
                     <li>Fixed critical string interpolation bug in audio watchdog</li>
                 </ul>
             ]]></description>
-            <pubDate>Sat, 30 Nov 2025 23:10:00 +0000</pubDate>
+            <pubDate>Sun, 01 Dec 2025 22:00:00 +0000</pubDate>
             <sparkle:version>1.2</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2/Pipit-1.2.dmg"
-                sparkle:edSignature="pNPLKzq6t2tTFSjmWXOsM2AbE5WBMj6NAQQYW9Y54jplYHTtpkm/llyMYLjMfINz9C+2crtNS25VEWuhws1iCg=="
-                length="5741282"
+                sparkle:edSignature="N0Vktw9Be1XSOcXxbSlLgW4p8PaQytbaI9+1WtjNESDj5pZcEU67cNB0UtacXowjcqUdsVPs2XC+POu/vtm1Bg=="
+                length="5722446"
                 type="application/octet-stream"
             />
         </item>
