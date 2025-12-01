@@ -16,16 +16,17 @@
                     <li>Improved ASR model metadata handling</li>
                     <li>Streamlined VoiceModelSelector UI</li>
                     <li>Better audio device persistence and recovery</li>
+                    <li>Fixed critical string interpolation bug in audio watchdog</li>
                 </ul>
             ]]></description>
-            <pubDate>Sat, 30 Nov 2025 22:40:00 +0000</pubDate>
+            <pubDate>Sat, 30 Nov 2025 23:10:00 +0000</pubDate>
             <sparkle:version>1.2</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2/Pipit-1.2.dmg"
-                sparkle:edSignature="1PK49BNfMAz+L896yc5Tj2I5qZbay8GY9DU/5z2njKMOrLjc2cKP2FLu8m8Naqe8TPGleIKuq/dzVLEMrpccBg=="
-                length="5739164"
+                sparkle:edSignature="pNPLKzq6t2tTFSjmWXOsM2AbE5WBMj6NAQQYW9Y54jplYHTtpkm/llyMYLjMfINz9C+2crtNS25VEWuhws1iCg=="
+                length="5741282"
                 type="application/octet-stream"
             />
         </item>
