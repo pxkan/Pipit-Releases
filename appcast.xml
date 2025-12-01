@@ -7,6 +7,30 @@
         <link>https://github.com/pxkan/Pipit-Releases</link>
 
         <item>
+            <title>Version 1.2</title>
+            <description><![CDATA[
+                <h2>What's New in 1.2</h2>
+                <ul>
+                    <li>Refactored audio device management with improved type safety</li>
+                    <li>Enhanced device selection logic with smart fallback resolution</li>
+                    <li>Improved ASR model metadata handling</li>
+                    <li>Streamlined VoiceModelSelector UI</li>
+                    <li>Better audio device persistence and recovery</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 30 Nov 2025 22:40:00 +0000</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2/Pipit-1.2.dmg"
+                sparkle:edSignature="1PK49BNfMAz+L896yc5Tj2I5qZbay8GY9DU/5z2njKMOrLjc2cKP2FLu8m8Naqe8TPGleIKuq/dzVLEMrpccBg=="
+                length="5739164"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0</title>
             <description><![CDATA[
                 <h2>Pipit 1.0 Release</h2>
