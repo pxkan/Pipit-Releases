@@ -7,49 +7,27 @@
         <link>https://github.com/pxkan/Pipit-Releases</link>
 
         <item>
-            <title>Version 1.2</title>
-            <description><![CDATA[
-                <h2>What's New in 1.2</h2>
-                <ul>
-                    <li>Refactored audio device management with improved type safety</li>
-                    <li>Enhanced device selection logic with smart fallback resolution</li>
-                    <li>Improved ASR model metadata handling</li>
-                    <li>Streamlined VoiceModelSelector UI</li>
-                    <li>Better audio device persistence and recovery</li>
-                    <li>Fixed critical string interpolation bug in audio watchdog</li>
-                </ul>
-            ]]></description>
-            <pubDate>Mon, 02 Dec 2025 07:12:00 +0000</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2/Pipit-1.2.dmg"
-                sparkle:edSignature="Q5ckRP4IirCBZYejjlne/MbiRei6RBbyDDUP8FMaqmLjuUOLX2/L8VlA08zNZSGTtKMCaPdqO3kZNEQmsh0ODw=="
-                length="4653528"
-                type="application/octet-stream"
-            />
-        </item>
-
-        <item>
             <title>Version 1.0</title>
             <description><![CDATA[
-                <h2>Pipit 1.0 Release</h2>
+                <h2>Pipit 1.0</h2>
                 <ul>
-                    <li>Initial public release</li>
-                    <li>Speech-to-text transcription</li>
+                    <li>Voice-to-text transcription with local on-device processing</li>
+                    <li>Support for 25 languages</li>
+                    <li>Global hotkey for quick dictation</li>
+                    <li>AI-powered text enhancement (optional)</li>
+                    <li>Voice workflows for hands-free automation</li>
+                    <li>Transcription history management</li>
                     <li>Auto-update support with Sparkle</li>
-                    <li>macOS Sonoma and later support</li>
                 </ul>
             ]]></description>
-            <pubDate>Fri, 14 Nov 2025 20:30:00 +0000</pubDate>
+            <pubDate>Mon, 02 Dec 2025 23:39:00 +0000</pubDate>
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.0/Pipit-1.0.dmg"
-                sparkle:edSignature="cAzPJXa2YnJplfCj2xJmtsucCxOHFsEr2spfPdDjc30qokdPq6IiMh8thAPZwmxxhCb9xk1ityI9iimfDtEWDQ=="
-                length="5009933"
+                sparkle:edSignature="zYLGhnB4axzuVV0dDEXVgRToNU6432w45X2amBMydHUFUYn6r5mMgs/SW/fJGlyrTaa6zRu+BLPllXXwdltVAw=="
+                length="5046986"
                 type="application/octet-stream"
             />
         </item>
