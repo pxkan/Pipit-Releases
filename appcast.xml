@@ -20,14 +20,14 @@
                     <li>Auto-update support with Sparkle</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 18 Dec 2025 12:20:00 +0000</pubDate>
+            <pubDate>Thu, 18 Dec 2025 19:20:00 +0000</pubDate>
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.0/Pipit-1.0.dmg"
-                sparkle:edSignature="aW3/SRkMxay9C/HvI1u93dptjZYoFhMhfrKtXy54EivxL6vOgRzgFk7OwpmFiGi4/OYYTUKb4lPgeQjuVvUnCg=="
-                length="8236400"
+                sparkle:edSignature="6qJQNvCR0Td6z7mSvo8mAnjU9hYDwqbimOUbN3RlBsGUVZ2xkLBb0ayJBWQtvZycS5jZkk513FCagnme2BjOAw=="
+                length="8560458"
                 type="application/octet-stream"
             />
         </item>
