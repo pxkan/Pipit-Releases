@@ -18,16 +18,19 @@
                     <li>Voice workflows for hands-free automation</li>
                     <li>Transcription history management</li>
                     <li>Auto-update support with Sparkle</li>
+                    <li>Removed WhisperKit dependency for smaller app size</li>
+                    <li>UI polish and improvements</li>
+                    <li>Network monitoring enhancements</li>
                 </ul>
             ]]></description>
-            <pubDate>Thu, 19 Dec 2025 20:35:00 +0000</pubDate>
+            <pubDate>Mon, 23 Dec 2025 22:47:00 +0000</pubDate>
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.0/Pipit-1.0.dmg"
-                sparkle:edSignature="I6HufJGx44eebB7Wc03qxHDZhYiv9J+KBBTCSH5ufydiP+7aGcaJYhx9/szI9SjomVFW7uUS1pekLWh2hUgxCA=="
-                length="8606475"
+                sparkle:edSignature="whDe0pwSS7CRSWhsCJcGSswaqn36u5UQintUQ9pjFxS7W4PiRXuBoDCLRj/aqUTWc+YZ9hyFN6+gKQGGS55IDA=="
+                length="8611173"
                 type="application/octet-stream"
             />
         </item>
