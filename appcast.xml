@@ -23,14 +23,14 @@
                     <li>Network monitoring enhancements</li>
                 </ul>
             ]]></description>
-            <pubDate>Tue, 24 Dec 2025 12:15:00 +0000</pubDate>
+            <pubDate>Tue, 24 Dec 2025 17:20:00 +0000</pubDate>
             <sparkle:version>1.0</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.0/Pipit-1.0.dmg"
-                sparkle:edSignature="dwyU2f+wyMxt2rTh/Big6mkS3iL6l6YARzNK3e8Dt6SpvvB87CRS9D3f42xzLgwmVqvSEe7u3XFZHQPGvMhmDg=="
-                length="8509587"
+                sparkle:edSignature="g1nV1exTOyMc6hLfka9aaBMBmr2xVGtekjjhgFR1kcWLfprb7+fMxaXAeMf79OEp3DEadZv3/7SGPHSJ8PRTBw=="
+                length="8144904"
                 type="application/octet-stream"
             />
         </item>
