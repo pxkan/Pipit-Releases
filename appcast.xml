@@ -7,6 +7,26 @@
         <link>https://github.com/pxkan/Pipit-Releases</link>
 
         <item>
+            <title>Version 1.01</title>
+            <description><![CDATA[
+                <h2>Pipit 1.01</h2>
+                <ul>
+                    <li>Fixed Cmd+Tab bugfix</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 30 Dec 2025 19:50:00 +0000</pubDate>
+            <sparkle:version>1.01</sparkle:version>
+            <sparkle:shortVersionString>1.01</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.01/Pipit-1.01.dmg"
+                sparkle:edSignature="p/Uj+gL4LMjX84NRtYi4Ize1DsvkKLipH9TsgrLPq7P5MSfzJKRNqKziD31FgH91D0xgvsPyATSY5XeQRJkNCw=="
+                length="8145898"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0</title>
             <description><![CDATA[
                 <h2>Pipit 1.0</h2>
