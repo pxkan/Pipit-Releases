@@ -7,6 +7,26 @@
         <link>https://github.com/pxkan/Pipit-Releases</link>
 
         <item>
+            <title>Version 1.02</title>
+            <description><![CDATA[
+                <h2>Pipit 1.02</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 31 Dec 2025 02:25:00 +0000</pubDate>
+            <sparkle:version>1.02</sparkle:version>
+            <sparkle:shortVersionString>1.02</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.02/Pipit-1.02.dmg"
+                sparkle:edSignature="zC09eNtWvn7iaEUqOM6om0d/iskXscz5e0U5UPL/Nj79VB5DXWBLgZmZMNKR6cSlAHbQrWNLykLk6riLTe26CA=="
+                length="8147781"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.01</title>
             <description><![CDATA[
                 <h2>Pipit 1.01</h2>
