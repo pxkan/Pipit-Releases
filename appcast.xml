@@ -19,8 +19,9 @@
             <description><![CDATA[
                 <h2>Pipit 1.0.7</h2>
                 <ul>
+                    <li>Better start and stop sound timing</li>
+                    <li>Various bug fixes</li>
                     <li>Fixed DMG installer: Applications folder now shows proper icon</li>
-                    <li>Improved DMG creation process using dmgbuild</li>
                 </ul>
             ]]></description>
             <pubDate>Tue, 31 Dec 2025 20:21:00 +0000</pubDate>
