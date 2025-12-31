@@ -15,6 +15,27 @@
         -->
 
         <item>
+            <title>Version 1.0.7</title>
+            <description><![CDATA[
+                <h2>Pipit 1.0.7</h2>
+                <ul>
+                    <li>Fixed DMG installer: Applications folder now shows proper icon</li>
+                    <li>Improved DMG creation process using dmgbuild</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 31 Dec 2025 20:21:00 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.0.7/Pipit-1.0.7.dmg"
+                sparkle:edSignature="J49JRuN9E6o0cwMX7YG44uKp70rb/BT8B0dedAM2prvmLWZv/aosA6ufPUGqIWH1nfabowHELKF3cT5uk3OWCQ=="
+                length="8681100"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.0.6</title>
             <description><![CDATA[
                 <h2>Pipit 1.0.6</h2>
