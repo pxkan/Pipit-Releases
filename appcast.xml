@@ -7,6 +7,27 @@
         <link>https://github.com/pxkan/Pipit-Releases</link>
 
         <item>
+            <title>Version 1.03</title>
+            <description><![CDATA[
+                <h2>Pipit 1.03</h2>
+                <ul>
+                    <li>Added Check for Updates button in app settings</li>
+                    <li>Check for Updates also available in Pipit menu bar</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 31 Dec 2025 08:15:00 +0000</pubDate>
+            <sparkle:version>1.03</sparkle:version>
+            <sparkle:shortVersionString>1.03</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.03/Pipit-1.03.dmg"
+                sparkle:edSignature="rS34xRmpL7TYckP5SBah/FWEuCrgD4mZicbYmkci2SWLL0gmZAPvLQDHGgX4sD8nGGwI625UI7N6PaRIthmADA=="
+                length="8629027"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.02</title>
             <description><![CDATA[
                 <h2>Pipit 1.02</h2>
