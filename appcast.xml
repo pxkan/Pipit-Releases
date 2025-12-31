@@ -6,6 +6,11 @@
         <language>en</language>
         <link>https://github.com/pxkan/Pipit-Releases</link>
 
+        <!--
+        IMPORTANT: sparkle:version MUST match CFBundleVersion (build number)
+        sparkle:shortVersionString is the marketing version for display
+        -->
+
         <item>
             <title>Version 1.04</title>
             <description><![CDATA[
@@ -16,7 +21,7 @@
                 </ul>
             ]]></description>
             <pubDate>Tue, 31 Dec 2025 09:05:00 +0000</pubDate>
-            <sparkle:version>1.04</sparkle:version>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.04</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
@@ -37,7 +42,7 @@
                 </ul>
             ]]></description>
             <pubDate>Tue, 31 Dec 2025 08:15:00 +0000</pubDate>
-            <sparkle:version>1.03</sparkle:version>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.03</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
@@ -57,7 +62,7 @@
                 </ul>
             ]]></description>
             <pubDate>Tue, 31 Dec 2025 02:25:00 +0000</pubDate>
-            <sparkle:version>1.02</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.02</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
@@ -77,7 +82,7 @@
                 </ul>
             ]]></description>
             <pubDate>Mon, 30 Dec 2025 19:50:00 +0000</pubDate>
-            <sparkle:version>1.01</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.01</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
@@ -106,7 +111,7 @@
                 </ul>
             ]]></description>
             <pubDate>Mon, 30 Dec 2025 03:37:00 +0000</pubDate>
-            <sparkle:version>1.0</sparkle:version>
+            <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
