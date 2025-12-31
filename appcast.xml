@@ -7,6 +7,27 @@
         <link>https://github.com/pxkan/Pipit-Releases</link>
 
         <item>
+            <title>Version 1.04</title>
+            <description><![CDATA[
+                <h2>Pipit 1.04</h2>
+                <ul>
+                    <li>Menu bar now appears when app window is open</li>
+                    <li>Access Check for Updates from Pipit menu</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 31 Dec 2025 09:05:00 +0000</pubDate>
+            <sparkle:version>1.04</sparkle:version>
+            <sparkle:shortVersionString>1.04</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.04/Pipit-1.04.dmg"
+                sparkle:edSignature="4hbfAuTF77i1NNo6AKDx8jFnR9NGphbXm+9dcvKkemVZbZcWbAgvMR2yRIFdxZ0Mt6IhWdJ00JJ+lrYqzaWuAg=="
+                length="8639511"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.03</title>
             <description><![CDATA[
                 <h2>Pipit 1.03</h2>
