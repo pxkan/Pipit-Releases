@@ -29,8 +29,8 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.0.6/Pipit-1.0.6.dmg"
-                sparkle:edSignature="ptIa/wLb3OjphDlSqOp1900xrn6jWJZ06K3woPDj/T501Rw10PVLvLYlPQKzeu8kNY1ZAesDSjXASgZm3CHWBg=="
-                length="9263540"
+                sparkle:edSignature="C7fcUo/05yir0P+6azrSgWC+RhkIUMUI/GzDEkUaOv5frRsX9toK0FxM98Ixh7kJOPdglGQy2vepWSpU7yS5Dg=="
+                length="9164640"
                 type="application/octet-stream"
             />
         </item>
