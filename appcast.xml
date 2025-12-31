@@ -12,6 +12,28 @@
         -->
 
         <item>
+            <title>Version 1.05</title>
+            <description><![CDATA[
+                <h2>Pipit 1.05</h2>
+                <ul>
+                    <li>Fixed Sparkle auto-update: Updates now download and install correctly</li>
+                    <li>Improved update window visibility for menu bar apps</li>
+                    <li>Better version comparison for reliable update detection</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 31 Dec 2025 10:50:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.05</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.05/Pipit-1.05.dmg"
+                sparkle:edSignature="CGiyNY3EUG96YtYdb06GBnI1UHsg1C+lVH96etvi143dYDkmeXgeaAdRIOS0yB3rFlVdn+X1IZHXOlKmHHZ3DQ=="
+                length="8641546"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.04</title>
             <description><![CDATA[
                 <h2>Pipit 1.04</h2>
