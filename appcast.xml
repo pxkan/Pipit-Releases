@@ -15,6 +15,27 @@
         -->
 
         <item>
+            <title>Version 1.1.2</title>
+            <description><![CDATA[
+                <h2>Pipit 1.1.2</h2>
+                <ul>
+                    <li>Stability fixes</li>
+                    <li>Fn key support (beta)</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 04 Jan 2026 06:10:00 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.1.2/Pipit-1.1.2.dmg"
+                sparkle:edSignature="/RJ6BuPOIM2dTKegFr0ANBZvnWYz+gEcnoMhwksECds7HKtJQRcu8KO55kz3A3EgiogdZ5Entm113lYXSKktAA=="
+                length="8690106"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1.1</title>
             <description><![CDATA[
                 <h2>Pipit 1.1.1</h2>
