@@ -15,6 +15,27 @@
         -->
 
         <item>
+            <title>Version 1.1.4</title>
+            <description><![CDATA[
+                <h2>Pipit 1.1.4</h2>
+                <ul>
+                    <li>Added support for opening Apple Music with voice commands</li>
+                    <li>Bug fixes and stability improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 11 Jan 2026 22:48:06 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.1.4/Pipit-1.1.4.dmg"
+                sparkle:edSignature="yswCweYBLbx0BRFCk9ms853HVPOHDuCKdFx1BFjklZQJAiD6LC0JIXbGmz9gkMnE51wL2i95B5l5wh7KZEHfDg=="
+                length="8696453"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1.3</title>
             <description><![CDATA[
                 <h2>Pipit 1.1.3</h2>
