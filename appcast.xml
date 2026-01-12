@@ -15,6 +15,27 @@
         -->
 
         <item>
+            <title>Version 1.1.5</title>
+            <description><![CDATA[
+                <h2>Pipit 1.1.5</h2>
+                <ul>
+                    <li>Bug fixes and performance improvements</li>
+                    <li>Enhanced stability</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 12 Jan 2026 00:48:45 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.1.5/Pipit-1.1.5.dmg"
+                sparkle:edSignature="CnZRboUwzes1C/VH6tHo8QuTylbdq2u/xW0/Z/xkxNb3okTrnI4KmK3apKKKNHzmLCc9ZGyVm3JpfgZcScGADg=="
+                length="8697322"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1.4</title>
             <description><![CDATA[
                 <h2>Pipit 1.1.4</h2>
