@@ -15,6 +15,30 @@
         -->
 
         <item>
+            <title>Version 1.1.8</title>
+            <description><![CDATA[
+                <h2>Pipit 1.1.8</h2>
+                <ul>
+                    <li><strong>Text-to-Speech Integration</strong> - New professional TTS engine delivers high-quality speech synthesis</li>
+                    <li><strong>Dock & Menu Bar Control</strong> - Show or hide the app icon from the Dock as needed</li>
+                    <li>AI Enhance hotkey now properly deactivates when AI processing is disabled</li>
+                    <li>Model downloads now persist reliably between app launches</li>
+                    <li>Minor startup performance improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 16 Jan 2026 22:30:00 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.1.8/Pipit-1.1.8.dmg"
+                sparkle:edSignature="GNTzS17UIB3NpAh9ukzSEV0v6nbolyDXGQjh32Wb6zOJ2rVl2hqlyqL2kllXD4I/u0lSgSGE+ygaPcFXhZ+XDQ=="
+                length="22731747"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1.6</title>
             <description><![CDATA[
                 <h2>Pipit 1.1.6</h2>
