@@ -15,6 +15,33 @@
         -->
 
         <item>
+            <title>Version 1.2.0</title>
+            <description><![CDATA[
+                <h2>Pipit 1.2.0</h2>
+                <ul>
+                    <li><strong>Dictionary</strong> — New dedicated dictionary page with searchable entries, word cloud visualization, and streamlined management of learned and corrected terms</li>
+                    <li><strong>Offline Dictionary Corrections</strong> — Local corrections are applied reliably and inform future transcription behavior</li>
+                    <li><strong>Adaptive Dictionary Learning</strong> — Identifies true corrections and learns cautiously to reduce incorrect auto-learning</li>
+                    <li><strong>Smarter AI Post-Processing</strong> — Upgraded prompts and cleanup rules for cleaner, more consistent final text with fewer filler words</li>
+                    <li><strong>Performance</strong> — Major transcription pipeline upgrades for faster startup and smoother live dictation</li>
+                    <li><strong>Refreshed Onboarding & Settings</strong> — Clearer setup and controls for new and existing users</li>
+                    <li><strong>Export & Clipboard History Controls</strong> — Export transcription and clipboard history; toggle clipboard history off entirely for privacy</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 24 Feb 2026 07:00:00 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:phasedRolloutInterval>1209600</sparkle:phasedRolloutInterval>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2.0/Pipit-1.2.0.dmg"
+                sparkle:edSignature="rDS/KT3B5DoeN+RXRGAPKE1lYv4RZl4YRVZbNk8F3q6FrD5FVAwuv9GrH/MIInO2VzYNE1bmI4gSewNwSf1nAA=="
+                length="12359993"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.1.9</title>
             <description><![CDATA[
                 <h2>Pipit 1.1.9</h2>
