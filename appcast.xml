@@ -15,9 +15,10 @@
         -->
 
         <item>
-            <title>Version 1.2.0</title>
+            <title>Version 1.2.1</title>
             <description><![CDATA[
-                <h2>Pipit 1.2.0</h2>
+                <h2>Pipit 1.2.1</h2>
+                <h3>New in 1.2</h3>
                 <ul>
                     <li><strong>Dictionary</strong> — New dedicated dictionary page with searchable entries, word cloud visualization, and streamlined management of learned and corrected terms</li>
                     <li><strong>Offline Dictionary Corrections</strong> — Local corrections are applied reliably and inform future transcription behavior</li>
@@ -27,16 +28,19 @@
                     <li><strong>Refreshed Onboarding & Settings</strong> — Clearer setup and controls for new and existing users</li>
                     <li><strong>Export & Clipboard History Controls</strong> — Export transcription and clipboard history; toggle clipboard history off entirely for privacy</li>
                 </ul>
+                <h3>1.2.1 Fixes</h3>
+                <ul>
+                    <li>Bug fixes and improvements for users on beta versions of macOS</li>
+                </ul>
             ]]></description>
-            <pubDate>Tue, 24 Feb 2026 07:00:00 +0000</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <pubDate>Tue, 24 Feb 2026 08:00:00 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:phasedRolloutInterval>1209600</sparkle:phasedRolloutInterval>
             <enclosure
-                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2.0/Pipit-1.2.0.dmg"
-                sparkle:edSignature="rDS/KT3B5DoeN+RXRGAPKE1lYv4RZl4YRVZbNk8F3q6FrD5FVAwuv9GrH/MIInO2VzYNE1bmI4gSewNwSf1nAA=="
-                length="12359993"
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2.1/Pipit-1.2.1.dmg"
+                sparkle:edSignature="dcN8u9kTHqfkft0S4QMZ9Xww9r/SmjhjoV5vS//BuobRt++MbX62SuxnVPizVLwYZiwRwhOu7DjEJ4yx225MDA=="
+                length="12364890"
                 type="application/octet-stream"
             />
         </item>
