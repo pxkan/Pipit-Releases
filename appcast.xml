@@ -15,6 +15,38 @@
         -->
 
         <item>
+            <title>Version 1.2.2</title>
+            <description><![CDATA[
+                <h2>Pipit 1.2.2</h2>
+                <h3>What's New</h3>
+                <ul>
+                    <li><strong>Bug Fixes</strong> — Fixed compatibility issues with local Ollama endpoints for AI post-processing</li>
+                    <li><strong>Number Conversion</strong> — Spoken or typed number words are now automatically converted to numerals (e.g. "twenty-three" → "23")</li>
+                </ul>
+                <h3>Also in 1.2 (if you haven't updated in a while)</h3>
+                <ul>
+                    <li><strong>Dictionary</strong> — New dedicated dictionary page with searchable entries, word cloud visualization, and streamlined management of learned and corrected terms</li>
+                    <li><strong>Offline Dictionary Corrections</strong> — Local corrections applied reliably and inform future transcription behavior</li>
+                    <li><strong>Adaptive Dictionary Learning</strong> — Identifies true corrections and learns cautiously to reduce incorrect auto-learning</li>
+                    <li><strong>Smarter AI Post-Processing</strong> — Upgraded prompts and cleanup rules for cleaner, more consistent final text</li>
+                    <li><strong>Performance</strong> — Major transcription pipeline upgrades for faster startup and smoother live dictation</li>
+                    <li><strong>Refreshed Onboarding &amp; Settings</strong> — Clearer setup and controls for new and existing users</li>
+                    <li><strong>Export &amp; Clipboard History Controls</strong> — Export history; toggle clipboard history off for full privacy</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 26 Feb 2026 01:59:19 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2.2/Pipit-1.2.2.dmg"
+                sparkle:edSignature="IuNdkaTa6qm6yimhfUov5TNxByXarzFlpnO83NAHnyZoxcqJcC8cHNyWWxzL8lGtvqaqnYzy43Al0RrnsxAUDw=="
+                length="12384654"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.2.1</title>
             <description><![CDATA[
                 <h2>Pipit 1.2.1</h2>
