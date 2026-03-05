@@ -15,6 +15,36 @@
         -->
 
         <item>
+            <title>Version 1.2.4</title>
+            <description><![CDATA[
+                <h2>Pipit 1.2.4</h2>
+                <h3>Hot fix</h3>
+                <p>For a subset of users experiencing frequent crashes and/or stability issues.</p>
+                <h3>Dictionary post-processing (default off)</h3>
+                <p>Dictionary post-processing is now <strong>off by default</strong>. Re-enable it in Settings if you want it. We turned it off to improve latency. If you already use <strong>AI post-processing</strong>, you can leave dictionary off — AI handles cleanup and corrections, so the dictionary step is optional.</p>
+                <h3>Also in 1.2.3</h3>
+                <ul>
+                    <li><strong>AI Output Truncation</strong> — Fixed AI output being silently truncated with certain model providers</li>
+                </ul>
+                <h3>Also in 1.2.2</h3>
+                <ul>
+                    <li><strong>Ollama Fixes</strong> — Fixed compatibility issues with local Ollama endpoints</li>
+                    <li><strong>Number Conversion</strong> — Spoken or typed number words are automatically converted to numerals (e.g. "twenty-three" → "23")</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 05 Mar 2026 04:27:52 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2.4/Pipit-1.2.4.dmg"
+                sparkle:edSignature="6915+3agzhUTFjoKQhI28HZU6wE9/SdvtfT/itNIYPT6lrL1xPp2TIQV9Ij1tTEiqIORVJZ6h/JDbPXtf5hMBA=="
+                length="12410000"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.2.3</title>
             <description><![CDATA[
                 <h2>Pipit 1.2.3</h2>
