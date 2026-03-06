@@ -15,6 +15,42 @@
         -->
 
         <item>
+            <title>Version 1.2.5</title>
+            <description><![CDATA[
+                <h2>Pipit 1.2.5</h2>
+                <h3>What's New in 1.2.5 — Bug fixes (optional)</h3>
+                <ul>
+                    <li><strong>Hotkey reliability</strong> — Improved behavior for a subset of users who experienced inconsistent hotkey response</li>
+                    <li><strong>Quality of life</strong> — A small loading indicator now appears while transcripts are being processed</li>
+                </ul>
+                <h3>Also in 1.2.4</h3>
+                <ul>
+                    <li><strong>Hot fix</strong> — Crashes and stability issues for some users</li>
+                    <li><strong>Dictionary post-processing</strong> — Now off by default (re-enable in Settings); improves latency; optional if you use AI post-processing</li>
+                </ul>
+                <h3>Also in 1.2.3</h3>
+                <ul>
+                    <li><strong>AI Output Truncation</strong> — Fixed AI output being silently truncated with certain model providers</li>
+                </ul>
+                <h3>Also in 1.2.2</h3>
+                <ul>
+                    <li><strong>Ollama Fixes</strong> — Fixed compatibility issues with local Ollama endpoints</li>
+                    <li><strong>Number Conversion</strong> — Spoken or typed number words are automatically converted to numerals (e.g. "twenty-three" → "23")</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 06 Mar 2026 23:04:56 +0000</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2.5/Pipit-1.2.5.dmg"
+                sparkle:edSignature="fDwIjlRySPQguyFSZwzZkSYVmdE32jEo7wPNMHevCN0odhzFCoc1oU5/vJs8S1CcqfWKqUmF2dbkOkYUFJXjDg=="
+                length="12415676"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.2.4</title>
             <description><![CDATA[
                 <h2>Pipit 1.2.4</h2>
