@@ -14,6 +14,38 @@
         Versions 1.0 through 1.05 used ambiguous format (1.05 could mean 1.5).
         -->
 
+        <!--
+        FEED FROZEN (2026-07-10): the Sparkle EdDSA key used through 1.2.6 was
+        lost and rotated. Clients polling this feed hold the OLD public key and
+        will REJECT anything signed with the new key. Only the informational
+        item below may live at the top of this feed. All new releases go to
+        appcast-v2.xml. See FastType repo docs/project/sparkle-key-rotation.md.
+        -->
+
+        <item>
+            <title>Version 1.2.7 — one-time manual update</title>
+            <description><![CDATA[
+                <h2>Pipit 1.2.7 — a one-time manual update is needed</h2>
+                <p>For security-key reasons, this update can't install automatically. It's a quick one-time step:</p>
+                <ol>
+                    <li>Click the button below to open the download page.</li>
+                    <li>Download Pipit and drag it into Applications, replacing your current copy.</li>
+                </ol>
+                <p><strong>Your history and settings are preserved.</strong> Future updates are automatic again.</p>
+                <h3>Also in this update</h3>
+                <ul>
+                    <li><strong>Less aggressive word corrections</strong> — removed dictionary words no longer bias transcription</li>
+                    <li><strong>Bug fixes &amp; stability</strong> — history preview, menu bar panel, clipboard monitor, launch at startup, onboarding</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:informationalUpdate/>
+            <link>https://www.pipitvoice.com/update</link>
+        </item>
+
         <item>
             <title>Version 1.2.5</title>
             <description><![CDATA[
