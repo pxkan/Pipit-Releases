@@ -2,6 +2,8 @@
 
 This repository hosts public releases for **Pipit**, a voice-to-text transcription app for macOS.
 
+www.pipitvoice.com
+
 ## About Pipit
 
 Pipit provides:
