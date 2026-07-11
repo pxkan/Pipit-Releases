@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Pipit Updates</title>
+        <description>Most recent updates to Pipit</description>
+        <language>en</language>
+        <link>https://github.com/pxkan/Pipit-Releases</link>
+
+        <!--
+        Feed for Pipit 1.2.7+ (post key-rotation, SUPublicEDKey
+        3Y9/9Z7yLu4TybJfgcOC5n1i1qj+YS0rma4lGmYA7xo=).
+        sparkle:version MUST match CFBundleVersion (build number).
+        -->
+
+        <item>
+            <title>Version 1.2.7</title>
+            <description><![CDATA[
+                <h2>Pipit 1.2.7</h2>
+                <h3>Bug Fixes &amp; Stability — Thank you for the feedback ❤️</h3>
+                <p>This release is focused entirely on fixes and stability based on your reports.</p>
+                <ul>
+                    <li><strong>History preview</strong> — Fixed the preview popover dismissing itself when you moved your mouse into it to scroll</li>
+                    <li><strong>Menu bar panel</strong> — Fixed the first click inside the history panel sometimes being swallowed and requiring a second press</li>
+                    <li><strong>Scroll detection</strong> — Fixed scroll events inside the preview being misread as list scrolls, closing the preview unexpectedly</li>
+                    <li><strong>Clipboard monitor</strong> — All pasteboard reads now happen off the main thread, reducing brief UI freezes</li>
+                    <li><strong>AX read timeouts</strong> — Accessibility reads now have hard timeouts, preventing hangs when a target app is slow to respond</li>
+                    <li><strong>Launch at startup</strong> — Fixed an edge case where toggling the setting could get stuck in a bad state</li>
+                    <li><strong>Onboarding</strong> — Improved the permission-skip flow so it's clearer what's optional vs. required</li>
+                </ul>
+                <h3>Word Corrections &amp; Vocabulary</h3>
+                <ul>
+                    <li><strong>Less aggressive corrections</strong> — Words you remove from your dictionary no longer keep biasing transcription, so unintended auto-corrections happen far less often</li>
+                    <li><strong>Stale vocabulary cleared properly</strong> — &quot;Reset Learned Corrections&quot; now reliably clears terms learned from your edits, while keeping vocabulary from other sources (screen text, manual entry, imports)</li>
+                    <li><strong>Deletions stick</strong> — Dictionary deletions made while signed out now sync correctly on sign-in instead of quietly coming back</li>
+                    <li><strong>Performance</strong> — Bulk dictionary clears are faster and write to the sync queue once instead of once per word</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 11 Jul 2026 03:51:59 +0000</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:phasedRolloutInterval>604800</sparkle:phasedRolloutInterval>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2.7/Pipit-1.2.7.dmg"
+                sparkle:edSignature="oPxF5qwZI/W7ff2n2LDkbXI6zoftvdpxNZ6iCl+7vvjXQjwqn5e4P7GIYcoCRY8OrkVAiMW6WQUIuKo9oC0tBA=="
+                length="12669990"
+                type="application/octet-stream"
+            />
+        </item>
+
+    </channel>
+</rss>
