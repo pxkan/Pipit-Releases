@@ -19,7 +19,7 @@ Visit the [Releases](https://github.com/pxkan/Pipit-Releases/releases) page to d
 
 ## System Requirements
 
-- macOS 14.0 (Sonoma) or later
+- macOS 15 or later
 - Apple Silicon or Intel processor
 
 ## Source Code
