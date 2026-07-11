@@ -28,7 +28,7 @@
                 <h2>Pipit 1.2.7 — a one-time manual update is needed</h2>
                 <p>For security-key reasons, this update can't install automatically. It's a quick one-time step:</p>
                 <ol>
-                    <li>Click the button below to open the download page.</li>
+                    <li>Go to <a href="https://www.pipitvoice.com/update"><strong>pipitvoice.com/update</strong></a></li>
                     <li>Download Pipit and drag it into Applications, replacing your current copy.</li>
                 </ol>
                 <p><strong>Your history and settings are preserved.</strong> Future updates are automatic again.</p>
