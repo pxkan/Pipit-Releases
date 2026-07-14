@@ -13,6 +13,38 @@
         -->
 
         <item>
+            <title>Version 1.2.8</title>
+            <description><![CDATA[
+                <h2>Pipit 1.2.8</h2>
+                <h3>Bug Fixes &amp; Stability — Thank you for the feedback ❤️</h3>
+                <p>This release fixes the transcription regressions reported after 1.2.7 and includes additional reliability improvements.</p>
+                <ul>
+                    <li><strong>Long dictations</strong> — Fixed repeated or corrupted text that could begin around the 15-second mark, especially for multilingual transcription</li>
+                    <li><strong>CoreML stability</strong> — Fixed crashes during Parakeet model loading on affected Mac and macOS combinations</li>
+                    <li><strong>Recording tails</strong> — Improved end-of-dictation capture so the final words are less likely to be cut off</li>
+                </ul>
+                <h3>Word Corrections &amp; Vocabulary</h3>
+                <ul>
+                    <li><strong>Safer corrections</strong> — Added stronger guards against replacing valid everyday words with unrelated learned aliases</li>
+                    <li><strong>Self-healing learning</strong> — Repeated corrections that users undo are automatically suppressed instead of continuing to recur</li>
+                    <li><strong>Pipeline reliability</strong> — Improved correction lifecycle tracking and fallback behavior</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 14 Jul 2026 22:42:40 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <!-- Seven Sparkle cohorts, released every three days: 21-day rollout. -->
+            <sparkle:phasedRolloutInterval>259200</sparkle:phasedRolloutInterval>
+            <enclosure
+                url="https://github.com/pxkan/Pipit-Releases/releases/download/v1.2.8/Pipit-1.2.8.dmg"
+                sparkle:edSignature="gKkJmZ4rqgEhPVAik/vV/+tn4T8phrv9ySmAzTPHsnM99EL5GTdQv6eCqxswDQxaygCTssnILc6yjzU+py+9DQ=="
+                length="12887384"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 1.2.7</title>
             <description><![CDATA[
                 <h2>Pipit 1.2.7</h2>
