@@ -23,25 +23,25 @@
         -->
 
         <item>
-            <title>Version 1.2.7 — one-time manual update</title>
+            <title>Version 1.2.8 — one-time manual update</title>
             <description><![CDATA[
-                <h2>Pipit 1.2.7 — a one-time manual update is needed</h2>
+                <h2>Pipit 1.2.8 — a one-time manual update is needed</h2>
                 <p>For security-key reasons, this update can't install automatically. It's a quick one-time step:</p>
                 <ol>
                     <li>Go to <a href="https://www.pipitvoice.com/update"><strong>pipitvoice.com/update</strong></a></li>
                     <li>Download Pipit and drag it into Applications, replacing your current copy.</li>
                 </ol>
                 <p><strong>Your history and settings are preserved.</strong> Future updates are automatic again.</p>
-                <h3>Also in this update</h3>
+                <h3>Important stability fixes</h3>
                 <ul>
-                    <li><strong>Less aggressive word corrections</strong> — removed dictionary words no longer bias transcription</li>
-                    <li><strong>Bug fixes &amp; stability</strong> — history preview, menu bar panel, clipboard monitor, launch at startup, onboarding</li>
+                    <li><strong>Startup stability</strong> — fixes crashes affecting some people on 1.2.7</li>
+                    <li><strong>Transcription reliability</strong> — fixes long-dictation regressions and improves end-of-dictation capture</li>
                 </ul>
             ]]></description>
-            <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 14 Jul 2026 22:42:40 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:informationalUpdate/>
             <link>https://www.pipitvoice.com/update</link>
         </item>
