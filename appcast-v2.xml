@@ -13,6 +13,29 @@
         -->
 
         <item>
+            <title>Pipit 1.5.0</title>
+            <link>https://www.pipitvoice.com/whats-new</link>
+            <description>&lt;p&gt;A big update. Pipit is more accurate, more responsive and easier to use, with a fresh design and new ways to write with your voice.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;A more accurate Pipit Engine&lt;/b&gt;, especially on short phrases. Choose English or Multilingual on Home.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Better with names.&lt;/b&gt; Pipit gets the names of people you're chatting with right and learns from the fixes you make.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Smarter without AI.&lt;/b&gt; Self-corrections, spoken numbers and your writing style are handled on your Mac.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Draft.&lt;/b&gt; Hold the Draft shortcut, say what you want, and Pipit writes it for you.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Sign in with ChatGPT&lt;/b&gt; to use your ChatGPT plan for Enhance and Draft, with no API key.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Your own voice commands&lt;/b&gt;, and a "Dictate with Pipit" action for Shortcuts.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Undo a cancel&lt;/b&gt;, clearer messages, and a fresh look.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Privacy:&lt;/b&gt; you can now turn off transcription history.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.pipitvoice.com/whats-new"&gt;See everything that's new&lt;/a&gt;&lt;/p&gt;</description>
+            <pubDate>Mon, 02 Nov 2026 04:38:07 +0000</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:phasedRolloutInterval>432000</sparkle:phasedRolloutInterval>
+            <enclosure url="https://www.pipitvoice.com/downloads/Pipit-1.5.0.dmg" sparkle:edSignature="D1n+8zT5hFROxZR1ZBptoTiVvhHOOs9OJLaQvMjWZfRpIjTNPEWCP0/njivSPB1vUEz4B9sNmIajJc6LSeVIBA==" length="21739130" type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.2.8</title>
             <description><![CDATA[
                 <h2>Pipit 1.2.8</h2>
